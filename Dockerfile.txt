@@ -1,11 +1,11 @@
 # Dockerfile
 
-# Script       : CamHacker
-# Author       : KasRoudra
-# Github       : https://github.com/KasRoudra
-# Messenger    : https://m.me/KasRoudra
-# Email        : kasroudrakrd@gmail.com
-# Date         : 05-09-2021
+# Script       : CamHxkr
+# Author       : MrSw16
+# Github       : https://github.com/MrSw16
+# Messenger    : https://m.me/MrSw16
+# Email        : bandietbonser23@gmail.com
+# Date         : 28-01-2024
 # Main Language: Shell
 
 # Download and import main images
@@ -14,7 +14,7 @@
 FROM debian:latest
 
 # Author info
-LABEL MAINTAINER="https://github.com/KasRoudra/CamHacker"
+LABEL MAINTAINER="https://github.com/MrSw16/CamHxkr"
 
 # Working directory
 WORKDIR /CamHacker/
