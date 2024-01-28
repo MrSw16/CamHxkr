@@ -1,10 +1,10 @@
 <?php
 
-# ip.php by KasRoudra
-# Author   : KasRoudra
-# Github   : https://github.com/KasRoudra
-# Email    : kasroudrard@gmail.com
-# Messenger: https//m.me/KasRoudra
+# ip.php by MrSw16
+# Author   : MrSw16
+# Github   : https://github.com/MrSw16
+# Email    : MrSw16@gmail.com
+# Messenger: https//m.me/MrSw16
 # Date     : 5-09-2021
 
 error_reporting(E_ERROR | E_PARSE);
